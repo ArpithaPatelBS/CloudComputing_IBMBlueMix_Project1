@@ -1,0 +1,5 @@
+Flask==0.10.1
+PIP=8.1.2
+GnuPG
+SwiftClient
+KeyStoneClient
